@@ -8,3 +8,5 @@ Specific Member Info (mine): https://lcr.churchofjesuschrist.org/api/records/mem
 Full Time Missionaries Serving from the Stake: https://lcr.churchofjesuschrist.org/api/orgs/full-time-missionaries?lang=eng&unitNumber=518778
 Temple Recommend Status (Entire Stake includes Youth): https://lcr.churchofjesuschrist.org/api/temple-recommend/report?unitNumber=518778&lang=eng
 Child Protection Report (Hillsborough): https://lcr.churchofjesuschrist.org/api/report/child-protection?unitNumber=2142155&lang=eng
+
+Stake Statistics Report: https://lcr.churchofjesuschrist.org/api/report/stake-statistics?lang=eng&unitNumber=518778
