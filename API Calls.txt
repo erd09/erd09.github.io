@@ -1,12 +1,20 @@
+Used
 Ward Leadership: https://lcr.churchofjesuschrist.org/api/orgs/ward-leadership?lang=eng
 Stake Callings by Organizations: https://lcr.churchofjesuschrist.org/api/orgs/sub-orgs-with-callings?lang=eng
-
-Ward Callings by Organizations (Hillsborough): https://lcr.churchofjesuschrist.org/api/orgs/sub-org-name-hierarchy?lang=eng&unitNumber=2142155
-Member List (Entire Stake): https://lcr.churchofjesuschrist.org/api/umlu/report/member-list?lang=eng&stakeWideSubOrgType=ALL&unitNumber=518778
-Member List (One Unit - Hillsborough): https://lcr.churchofjesuschrist.org/api/umlu/report/member-list?lang=eng&unitNumber=2142155
-Specific Member Info (mine): https://lcr.churchofjesuschrist.org/api/records/member-profile/service/3549597272?lang=eng
-Full Time Missionaries Serving from the Stake: https://lcr.churchofjesuschrist.org/api/orgs/full-time-missionaries?lang=eng&unitNumber=518778
+Stake Statistics Report: https://lcr.churchofjesuschrist.org/api/report/stake-statistics?lang=eng&unitNumber=518778
 Temple Recommend Status (Entire Stake includes Youth): https://lcr.churchofjesuschrist.org/api/temple-recommend/report?unitNumber=518778&lang=eng
+Member List (Entire Stake): https://lcr.churchofjesuschrist.org/api/umlu/report/member-list?lang=eng&stakeWideSubOrgType=ALL&unitNumber=518778
+
+
+Might Be Useful
+Full Time Missionaries Serving from the Stake: https://lcr.churchofjesuschrist.org/api/orgs/full-time-missionaries?lang=eng&unitNumber=518778
 Child Protection Report (Hillsborough): https://lcr.churchofjesuschrist.org/api/report/child-protection?unitNumber=2142155&lang=eng
 
-Stake Statistics Report: https://lcr.churchofjesuschrist.org/api/report/stake-statistics?lang=eng&unitNumber=518778
+
+Not Used
+Ward Callings by Organizations (Hillsborough): https://lcr.churchofjesuschrist.org/api/orgs/sub-org-name-hierarchy?lang=eng&unitNumber=2142155
+Member List (One Unit - Hillsborough): https://lcr.churchofjesuschrist.org/api/umlu/report/member-list?lang=eng&unitNumber=2142155
+Specific Member Info (mine): https://lcr.churchofjesuschrist.org/api/records/member-profile/service/3549597272?lang=eng
+
+
+
