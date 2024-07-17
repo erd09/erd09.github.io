@@ -12,6 +12,8 @@ Child Protection Report (Hillsborough): https://lcr.churchofjesuschrist.org/api/
 
 
 Not Used
+Member List (All Stake) - https://lcr.churchofjesuschrist.org/api/umlu/report/member-list?lang=eng&stakeWideSubOrgType=ALL&unitNumber=518778
+
 Ward Callings by Organizations (Hillsborough): https://lcr.churchofjesuschrist.org/api/orgs/sub-org-name-hierarchy?lang=eng&unitNumber=2142155
 Member List (One Unit - Hillsborough): https://lcr.churchofjesuschrist.org/api/umlu/report/member-list?lang=eng&unitNumber=2142155
 Specific Member Info (mine): https://lcr.churchofjesuschrist.org/api/records/member-profile/service/3549597272?lang=eng
